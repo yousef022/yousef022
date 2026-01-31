@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yousefosman/">LinkedIn</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/yousef022">GitHub</a>
   ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:yousefmobiledev@gmail.com">Email</a>
   ·
-  <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="[https://YOUR_PORTFOLIO_URL](https://yousef022.github.io/)">Portfolio</a>
 </p>
 
 ---
@@ -36,13 +36,12 @@
 - **Vendor generator managment** — Generator monitoring and onboarding
 - **JobHunt ProMatch** — AI-driven freelancing platform (matching + multi-role flows)
 
-> Want the full writeups? → https://YOUR_PORTFOLIO_URL
+> Want the full writeups? → https://yousef022.github.io/
 
 ---
 
 ### Now
 - Building: identity verification + device management platform systems
-- Open to: product-focused SWE roles (Toronto / Remote)
 
 ---
 
@@ -52,11 +51,11 @@
 
   <!-- Top languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef022&layout=compact" />
   </p>
 
   <!-- Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yousef022&show_icons=true" />
   </p>
 </details>
