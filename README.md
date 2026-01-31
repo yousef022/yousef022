@@ -43,4 +43,27 @@
 ---
 
 ## 🧪 Case studies
-- 🪪 **Identity / Device Tooling** — onboarding, verifica
+- 🪪 **Identity / Device Tooling** — onboarding, verification, operational tooling  
+- ⚡ **Vendor / Generator Management** — monitoring + onboarding workflows  
+- 🤝 **JobHunt ProMatch** — gig platform with matching + multi-role flows  
+
+<p align="center">
+  <a href="https://yousef022.github.io/">
+    <img alt="Read case studies" src="https://img.shields.io/badge/Read%20case%20studies-111827?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<details>
+  <summary><b>📈 Stats</b></summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yousef022&show_icons=true&hide_border=true" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef022&layout=compact&hide_border=true" />
+  </p>
+</details>
