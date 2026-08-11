@@ -1,6 +1,6 @@
 ## About
 
-Hey, I’m Yousef — a software engineer with about three years of startup experience.
+Hey, I’m Yousef — a software developer with about three years of startup experience.
 
 I build web, mobile, and cloud products from early ideas through launch. I especially enjoy the less-visible work that makes software dependable: authentication, reliable APIs, recovery flows, automation, and infrastructure.
 
