@@ -18,8 +18,8 @@ I build web, mobile, and cloud products from early ideas through launch. I espec
 
 ## Featured Product work
 
-- **Deepcam** — Managed Android device platform for dedicated hardware. Built the Kotlin Device Policy Controller, provisioning and kiosk controls, plus companion-app and onboarding integrations.
+- **Deepcam** by deepidv — Managed Android device platform for dedicated hardware. Built the Kotlin Device Policy Controller, provisioning and kiosk controls, plus companion-app and onboarding integrations.
 
-- **Deepeye** — Built and launched a Chrome Web Store extension for text and image analysis, along with its dashboard, authentication flows, cloud infrastructure, and APIs. The underlying AI model was developed separately.
+- **Deepeye** by deepidv — Built and launched a Chrome Web Store extension for text and image analysis, along with its dashboard, authentication flows, cloud infrastructure, and APIs. The underlying AI model was developed separately.
 
-- **Generator Fleet Monitoring & Automation** — Built TypeScript/Node.js services and automation for onboarding and monitoring Kohler generators in a Canadian telecom deployment, using Redis-backed job queues and operational data workflows.
+- **Generator Fleet Monitoring & Automation** (client project) — Built TypeScript/Node.js services and automation for onboarding and monitoring Kohler generators in a Canadian telecom deployment, using Redis-backed job queues and operational data workflows.
